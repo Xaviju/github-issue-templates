@@ -1,38 +1,20 @@
-**Note: for support questions, please use stackoverflow**. This repository's issues are reserved for feature requests and bug reports.
-
-* **I'm submitting a ... **
-  - [ ] bug report
-  - [ ] feature request
-  - [ ] support request => Please do not submit support request here, see note at the top of this template.
+**Nota**: Para poder ofrecerte un soporte adecuado, **es importante que contextualices tu duda**. Esto facilitará a las personas que quieran ayudarte poder darte la información correcta. Para ello, te recomendamos que contestes a las preguntas que te proponemos que sean relevantes para tu consulta.
 
 
-* **Do you want to request a *feature* or report a *bug*?**
+* **Danos información general sobre el problema**
+
+* **Si es un problema ¿Cómo está funcionando ahora?** Por favor, si es posible, incluye un codepen o similar.
 
 
-
-* **What is the current behavior?**
-
+* **¿De qué modo debería funcionar?**
 
 
-* **If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem** via
-https://plnkr.co or similar (you can use this template as a starting point: http://plnkr.co/edit/tpl:AvJOMERrnz94ekVua0u5).
-
-
-
-* **What is the expected behavior?**
-
-
-
-* **What is the motivation / use case for changing the behavior?**
-
-
-
-* **Please tell us about your environment:**
+* **Por favor, danos información sobre tu navegador y sistema operativo para poder reproducrilo:**
 
 - version: 2.0.0-beta.X
 - Browser: [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView ]
-- Language: [all | TypeScript X.X | ES6/7 | ES5 | Dart]
 
 
+* **Otra información relevate** (Explicaciones detalladas, errores de consola, links de contexto, stackoverflow, gitter, etc)
 
-* **Other information** (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, gitter, etc)
+**Nota final** Todos los miembros de la comunidad somos profesionales con un tiempo libre muy escaso, por lo que el tiempo de respuesta de las dudas planteadas puede variar y en ocasiones demorarse más de lo esperado. 
